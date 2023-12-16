@@ -1,36 +1,35 @@
+## Mental Health Chatbot
 
-# Mental Health Chatbot
+## Description
+This project presents a mental health chatbot developed with the help of LangChain and Hugging Face models. The aim of the chatbot is to provide informative and supportive answers to questions related to mental health. This bot is part of an initiative to use advanced technology in the field of artificial intelligence to offer support in the area of mental health.
 
-## Descripción
-Este proyecto presenta un chatbot de salud mental desarrollado con la ayuda de LangChain y modelos de Hugging Face. El objetivo del chatbot es proporcionar respuestas informativas y de apoyo a las preguntas relacionadas con la salud mental. Este bot es parte de una iniciativa para utilizar la tecnología avanzada en el campo de la inteligencia artificial para ofrecer apoyo en el área de la salud mental.
+## Features
+- Informed Answers**: Uses advanced natural language processing models to understand and respond to queries.
+- Mental Health Focus**: Specifically designed to answer questions related to mental health.
+- Friendly User Interface**: Accessible through a simple and easy-to-use user interface.
+- Implementation with Gradio**: Chat interface implemented with Gradio for easy interaction.
 
-## Características
-- **Respuestas Informadas**: Utiliza modelos avanzados de procesamiento de lenguaje natural para comprender y responder a consultas.
-- **Enfoque en Salud Mental**: Específicamente diseñado para responder preguntas relacionadas con la salud mental.
-- **Interfaz de Usuario Amigable**: Accesible a través de una interfaz de usuario simple y fácil de usar.
-- **Implementación con Gradio**: Interfaz de chat implementada con Gradio para una fácil interacción.
+## Technologies Used
+- LangChain**: For the logic and structure of the chatbot.
+- Hugging Face**: Provides the natural language processing model.
+- Radio**: For the creation of an interactive user interface.
 
-## Tecnologías Utilizadas
-- **LangChain**: Para la lógica y la estructura del chatbot.
-- **Hugging Face**: Provee el modelo de procesamiento de lenguaje natural.
-- **Gradio**: Para la creación de una interfaz de usuario interactiva.
+## How to Use
+To use the chatbot, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies (detailed in the `requirements.txt` file).
+3. Run the Gradio script to launch the chatbot interface.
+4. Enter your mental health related questions into the Gradio interface.
 
-## Cómo Usar
-Para utilizar el chatbot, sigue estos pasos:
-1. Clona el repositorio a tu máquina local.
-2. Instala las dependencias necesarias (detalladas en el archivo `requirements.txt`).
-3. Ejecuta el script de Gradio para iniciar la interfaz del chatbot.
-4. Ingresa tus preguntas relacionadas con la salud mental en la interfaz de Gradio.
+## Contribute
+Contributions are welcome, and any improvements to the functionality or accuracy of the chatbot are highly appreciated. If you would like to contribute, please consider the following steps:
+1. Make a fork of the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Create a pull request to merge your changes into the main repository.
 
-## Contribuir
-Las contribuciones son bienvenidas, y cualquier mejora en la funcionalidad o la precisión del chatbot es altamente apreciada. Si deseas contribuir, considera los siguientes pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama para tus cambios.
-3. Realiza tus cambios y haz un commit.
-4. Crea un pull request para fusionar tus cambios en el repositorio principal.
+## License
+This project is licensed under [MIT], which permits its use and distribution under the terms specified in the license.
 
-## Licencia
-Este proyecto está bajo [MIT], lo que permite su uso y distribución bajo los términos especificados en la licencia.
-
-## Contacto
-Para cualquier consulta o sugerencia, no dudes en contactarme en [https://www.linkedin.com/in/adrianinfantes/].
+## Contact
+If you have any questions or suggestions, feel free to contact me at [https://www.linkedin.com/in/adrianinfantes/].
